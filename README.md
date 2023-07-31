@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/linux-black?style=flat-square&logo=linux&logoColor=#FCC624"/>
 <img src="https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql&logoColor=#4479A1"/>
-<img src="https://img.shields.io/badge/mssql-black?style=flat-square&logo=mssql&logoColor=#CC2927"/>
+<img src="https://img.shields.io/badge/mssql-black?style=flat-square&logo=microsoftsqlserver&logoColor=#CC2927"/>
