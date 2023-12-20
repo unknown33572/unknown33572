@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=#48B0F1"/>
 <img src="https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=#7952B3"/>
 <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=#F7DF1E"/>
-<img src="https://img.shields.io/badge/c#-black?style=flat-square&logo=c#&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/cs-black?style=flat-square&logo=cs&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/.net-black?style=flat-square&logo=.net&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/java-black?style=flat-square&logo=Buy%20Me%20A%20Coffee&logoColor=#139BB4"/>
 <img src="https://img.shields.io/badge/spring-black?style=flat-square&logo=spring&logoColor=#6DB33F"/>
