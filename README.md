@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/oracle-black?style=flat-square&logo=oracle&logoColor=#57B685"/>
 <img src="https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql&logoColor=#4479A1"/>
 <img src="https://img.shields.io/badge/mssql-black?style=flat-square&logo=microsoftsqlserver&logoColor=#CC2927"/>
-<img src="https://img.shields.io/badge/postgressql-black?style=flat-square&logo=postgressql&logoColor=#CC2927"/>
+<img src="https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql&logoColor=#CC2927"/>
 <img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=#57B685"/>
